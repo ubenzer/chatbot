@@ -1,0 +1,20 @@
+{
+  "name": "botkit_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^0.8.2",
+    "botkit": "^0.6.4",
+    "node-wit": "^4.3.0"
+  },
+  "engines": {
+    "node": "8.7.0"
+  }
+}
