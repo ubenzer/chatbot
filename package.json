@@ -12,6 +12,7 @@
   "dependencies": {
     "@google-cloud/firestore": "^0.8.2",
     "botkit": "^0.6.4",
+    "node-random-name": "^1.0.1",
     "node-wit": "^4.3.0"
   },
   "engines": {
