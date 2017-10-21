@@ -113,11 +113,11 @@ function handleHelp(bot, user) {
   const msg3 = `Mesela senin adın bundan sonra ${generateANameForUser(user)}.`
   const msg4 = "Bana 'Muhabbet edecek birini arıyorum' diye yazdığın zaman, seni başka birine bağlayacağım."
   const msg5 = 'Bana yazdığın her şeyi ona ileteceğim. İstediğiniz kadar sohbet edebilirsiniz!'
-  const msg6 = "Başka biriyle yazışırken ban 'BOT: ' diye seslenebilirsin."
+  const msg6 = "Başka biriyle yazışırken bana 'BOT: ' diye seslenebilirsin."
   const msg7 = "Örneğin, sohbetini sonlandırmak istersen 'BOT: Muhabbeti bitir' diyebilirsin."
   const msg8 = "Yardıma ihtiyacın olduğunda 'BOT: yardım' yazabilirsin."
   const msg9 = 'Umuyorum ilginç, eğlenceli ve sohbeti koyu insanlar ile karşılaşırsın.'
-  const msg10 = 'Lütfen dikkatli ol! Kişisel bilgilerini, şifeni asla paylaşma! Ne benimle, ne diğerleriyle!'
+  const msg10 = 'Lütfen dikkatli ol! Kişisel bilgilerini, şifreni asla paylaşma! Ne benimle, ne diğerleriyle!'
   const msg11 = 'Kib bye!'
 
   return sendText(bot, user, msg1)
